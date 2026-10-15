@@ -1,0 +1,4 @@
+﻿方法,作用列,新增列数
+序数编码,"grade, subGrade",2
+独热编码,"homeOwnership, verificationStatus, purpose",23
+目标编码（K 折 OOF）,"title, employmentTitle, postCode, regionCode",4

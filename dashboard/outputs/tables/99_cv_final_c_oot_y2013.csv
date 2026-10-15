@@ -1,0 +1,2 @@
+﻿strategy,n_splits,n,dim,fold_auc,fold_mean,fold_std,fold_min,fold_max,fold_range,pooled_auc,auc_se,ci_low,ci_high,params,n_estimators
+oot_y2013,5,664475,86,0.7384;0.7360;0.7375;0.7389;0.7363,0.7374,0.0012,0.736,0.7389,0.0029,0.7374,0.00083,0.7358,0.739,"depth=6,lr=0.02,sub=0.8,col=0.7,L2=30,mcw=24,gamma=0",3000

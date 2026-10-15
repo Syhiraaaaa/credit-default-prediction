@@ -1,0 +1,17 @@
+# 信贷违约预测模型 - 核心依赖
+# 环境：conda env "credit"，Python 3.13
+# 安装：pip install -r requirements.txt
+pandas==3.0.6
+numpy==2.5.3
+scipy==1.18.1
+matplotlib==3.11.2
+scikit-learn==1.9.1
+pyarrow==25.0.1
+xgboost==3.4.1
+lightgbm==4.7.0
+shap==0.52.0
+plotly==7.1.0
+streamlit==1.65.0
+jupyterlab==4.6.3
+notebook==7.6.2
+ipykernel==7.3.0
